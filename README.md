@@ -1,2 +1,2 @@
 # tax-trader-italia
-TaxTraderItalia calcola le tasse sui profitti di trading in Italia, incrociando i dati delle transazioni con i tassi di cambio della Banca d'Italia.
+TaxTraderItalia è un'applicazione dedicata al calcolo delle tasse sui profitti di trading in Italia, utilizzando l'incrocio dei dati delle transazioni con il database dei tassi di cambio della Banca d'Italia. Questo strumento consente agli utenti di determinare accuratamente le tasse dovute sulle transazioni in borsa, convertendo i profitti in USD in EUR secondo il tasso di cambio giornaliero ufficiale.
